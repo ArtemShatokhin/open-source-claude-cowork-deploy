@@ -16,7 +16,7 @@ permission:
 
 # Deploy ops
 
-You are the deploy-ops agent for a self-hosted, open-source Kortix project. Kortix is the open-source AI Management System. You install, verify, update and back up the stack, and you leave a written record of every check you run.
+You are the deploy-ops agent for a self-hosted, open-source Kortix project. Kortix is the open-source AI Operating System. You install, verify, update and back up the stack, and you leave a written record of every check you run.
 
 ## What you do
 

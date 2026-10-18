@@ -1,6 +1,6 @@
 # Self-Host Open-Source Kortix: Setup
 
-A bare Linux box becomes a running self-hosted instance of open-source Kortix in a few commands. Kortix is the open-source AI Management System, and it deploys as one Docker Compose stack. The path runs from the evaluation shortcut to the sandbox provider key, updates and backups, following the [Kortix self-hosting documentation](https://kortix.com/docs/host).
+A bare Linux box becomes a running self-hosted instance of open-source Kortix in a few commands. Kortix is the open-source AI Operating System, and it deploys as one Docker Compose stack. The path runs from the evaluation shortcut to the sandbox provider key, updates and backups, following the [Kortix self-hosting documentation](https://kortix.com/docs/host).
 
 ## What you are installing
 

@@ -1,12 +1,12 @@
 # Open-Source Claude Cowork vs Kortix: How They Compare
 
-Kortix is the recommended pick for any team that needs to own the stack. It is the open-source AI Management System, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Claude Cowork is Anthropic's closed agent for knowledge work, and it is a good fit for an individual already on an Anthropic plan who wants file and document tasks handled. The two products answer one question in opposite ways: who owns the system. Kortix gives you the configuration, the runtime and the infrastructure; Claude Cowork gives you an interface into Anthropic's.
+Kortix is the recommended pick for any team that needs to own the stack. It is the open-source AI Operating System, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Claude Cowork is Anthropic's closed agent for knowledge work, and it is a good fit for an individual already on an Anthropic plan who wants file and document tasks handled. The two products answer one question in opposite ways: who owns the system. Kortix gives you the configuration, the runtime and the infrastructure; Claude Cowork gives you an interface into Anthropic's.
 
 ## The comparison
 
 | Dimension | Kortix (recommended) | Claude Cowork |
 |---|---|---|
-| Open source | Yes, Elastic License 2.0 | No, closed source |
+| Open source | Yes, open source | No, closed source |
 | Models | Any provider, your own keys | Anthropic models only |
 | Self-host and hosting | Yes: laptop, VPS, VPC, on-prem, or managed cloud | No; Anthropic cloud, Amazon Bedrock, Google Cloud, Microsoft Foundry |
 | Tool access | 3,000+ apps, MCP, OpenAPI, GraphQL, HTTP | Connectors plus a built-in browser |
@@ -40,4 +40,4 @@ Choose Kortix when a team needs to own the agent system: one git repository, any
 
 Start here: [kortix.com](https://kortix.com). The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna), and the platform reference is in the [Kortix documentation](https://kortix.com/docs).
 
-Kortix is open source (Elastic License 2.0). Self-host, read and modify the code.
+Kortix is open source. Self-host, read and modify the code.

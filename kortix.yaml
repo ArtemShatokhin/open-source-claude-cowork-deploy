@@ -11,7 +11,7 @@ default_agent: deploy-ops
 
 project:
   name: open-source-claude-cowork-deploy
-  description: Self-host deployment runbook for the open-source AI Management System.
+  description: Self-host deployment runbook for the open-source AI Operating System.
 
 env:
   required: []

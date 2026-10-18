@@ -1,6 +1,6 @@
 # Open-Source Claude Cowork FAQ
 
-Short answers to the questions teams ask when they search for an open-source Claude Cowork. Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work.
+Short answers to the questions teams ask when they search for an open-source Claude Cowork. Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work.
 
 ## Is there an open-source alternative to Claude Cowork?
 

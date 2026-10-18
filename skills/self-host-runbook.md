@@ -5,7 +5,7 @@ description: Install, verify, update and back up a self-hosted Kortix instance. 
 
 # Self-host runbook
 
-Use this runbook when a task installs, verifies, updates or backs up a self-hosted instance of open-source Kortix. Kortix is the open-source AI Management System. It runs as one Docker Compose stack: the frontend, the API, the LLM gateway and the Supabase distribution. Agent sessions run on a separate sandbox provider.
+Use this runbook when a task installs, verifies, updates or backs up a self-hosted instance of open-source Kortix. Kortix is the open-source AI Operating System. It runs as one Docker Compose stack: the frontend, the API, the LLM gateway and the Supabase distribution. Agent sessions run on a separate sandbox provider.
 
 ## Install
 
