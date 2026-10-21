@@ -50,6 +50,8 @@ kortix sessions new --agent deploy-ops --prompt "Doctor the self-hosted stack an
 - [Self-host setup](docs/setup.md) covers install, evaluation mode, updates and backups.
 - [Kortix vs Claude Cowork](docs/vs-claude-cowork.md) compares the two on ownership, models, hosting and cost.
 - [FAQ](docs/faq.md) answers the common "open source claude cowork" questions.
+- [Self-hosted AI agent](https://opensourceclaudecowork.com/self-hosted-ai-agent) covers the session machine and the permission file a deployment has to hand over.
+- [Self-hosted Claude Code](https://opensourceclaudecowork.com/self-hosted-claude-code) separates the harness you keep from the control plane you rent.
 
 Read the [Kortix documentation](https://kortix.com/docs) for the platform reference, or see [Kortix on GitHub](https://github.com/kortix-ai/suna) for the code.
 
