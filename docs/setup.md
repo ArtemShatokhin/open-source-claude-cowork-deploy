@@ -4,7 +4,7 @@ A bare Linux box becomes a running self-hosted instance of open-source Kortix in
 
 ## What you are installing
 
-One Docker Compose stack runs four services: the frontend, the API, the LLM gateway and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. The default provider is Daytona; Platinum and E2B are also supported. This split matters when you debug: a session failure is usually a sandbox provider problem, while a dashboard failure is a stack problem.
+One Docker Compose stack runs four services: the frontend, the API, the LLM gateway and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. The default provider is Platinum, the reference sandbox provider. This split matters when you debug: a session failure is usually a sandbox provider problem, while a dashboard failure is a stack problem.
 
 ## Requirements
 
@@ -56,7 +56,7 @@ After the stack starts, run the interactive setup:
 kortix self-host configure
 ```
 
-It prompts for the sandbox provider key and, optionally, a managed-git token. Then sign in to the dashboard and connect your own LLM key in the model picker. A self-hosted instance uses your own key by default, so model cost runs through your provider account.
+It prompts for the Platinum API key (`PLATINUM_API_KEY`) and, optionally, a managed-git token. Then sign in to the dashboard and connect your own LLM key in the model picker. A self-hosted instance uses your own key by default, so model cost runs through your provider account.
 
 ## Memory limit
 
