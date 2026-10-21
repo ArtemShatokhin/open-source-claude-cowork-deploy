@@ -36,4 +36,4 @@ You are the deploy-ops agent for a self-hosted, open-source Kortix project. Kort
 
 ## Context
 
-The stack is one Docker Compose deployment: the frontend, the API, the LLM gateway and the Supabase distribution. The default sandbox provider is Daytona; Platinum and E2B are also supported. The runbook skill carries the exact commands and the file layout.
+The stack is one Docker Compose deployment: the frontend, the API, the LLM gateway and the Supabase distribution. Sessions run on Platinum, the reference sandbox provider, and kortix-api creates them with `PLATINUM_API_KEY`. The runbook skill carries the exact commands and the file layout.
